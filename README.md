@@ -48,7 +48,7 @@ The SlidingPuzzleSolver utilizes the A\* (A-star) search algorithm, which is a p
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/yourusername/SlidingPuzzleSolver.git
+   git clone https://github.com/tbtiberiu/SlidingPuzzleSolver.git
    cd SlidingPuzzleSolver
    ```
 
